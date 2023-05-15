@@ -1,5 +1,5 @@
 # The Ares Project
-{about_statement}
+The Ares Project is just starting to get off the ground and we are prepping to deploy our documentation website. The purpose of the project, is to provide community curated cyber security documentation as an open source project to the community.
 
 ## Documentation Repository
 {repo_description}
