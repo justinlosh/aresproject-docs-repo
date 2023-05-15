@@ -4,6 +4,17 @@ The Ares Project is just starting to get off the ground and we are prepping to d
 ## Documentation Repository
 We are continuing to create the architecture of the documentation website. 
 
+```bash
+docs.myares.io
+├── getting-started
+├── hubs
+│   └── cyber-compliance
+│       └── nist
+├── resources
+├── tools
+├── about
+```
+
 ## Getting Started
 {getting_started}
 
