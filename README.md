@@ -4,7 +4,7 @@
 ## Documentation Repository
 {repo_description}
 
-# Getting Started
+## Getting Started
 {getting_started}
 
 ## Repo Structure
